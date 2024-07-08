@@ -10,6 +10,7 @@ Welcome to the official repository of the **Khan** mobile app. This app is desig
 - **User-Friendly Navigation**: Intuitive navigation for easy access to different sections of the app.
 
 ## Screenshots
+![welcome Page](https://github.com/DevEdozie/Khan_mobile_app/blob/main/welcome_screen.jpg)
 ![Products Page](https://github.com/DevEdozie/Khan_mobile_app/blob/main/products_page.jpg)
 ![Item Details Page](https://github.com/DevEdozie/Khan_mobile_app/blob/main/details_screen.jpg)
 ![Network Error](https://github.com/DevEdozie/Khan_mobile_app/blob/main/no_signal_view.jpg)
