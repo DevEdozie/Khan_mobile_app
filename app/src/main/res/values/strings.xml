@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Khan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="khan">Khan</string>
+    <string name="product_image">Product Image</string>
+    <string name="product_title">Product title</string>
+    <string name="product_price">Product price</string>
+    <string name="products">Products</string>
+    <string name="product_description">Product description</string>
+    <string name="details">Details</string>
+    <string name="get_started">Get started</string>
+    <string name="welcome_to_n_khan">WELCOME TO \n KHAN</string>
+    <string name="check_internet_connection">Check Internet Connection</string>
+</resources>
